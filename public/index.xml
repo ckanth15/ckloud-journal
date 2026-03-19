@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chandra&#39;s Ckloud Journal</title>
+    <link>http://localhost:1313/ckloud-journal/</link>
+    <description>Recent content on Chandra&#39;s Ckloud Journal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ckloud-journal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debugging AWS Lambda: Why Your Zip File Structure Matters</title>
+      <link>http://localhost:1313/ckloud-journal/posts/lambda-rds-mysql-debugging/</link>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ckloud-journal/posts/lambda-rds-mysql-debugging/</guid>
+      <description>How a nested zip file and a Python runtime mismatch caused a frustrating ImportModuleError — and how I fixed it.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/ckloud-journal/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ckloud-journal/about/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Chandra Kanth — a cloud computing enthusiast building hands-on projects with Azure and AWS.&lt;/p&gt;
+&lt;p&gt;This blog documents my cloud journey: real projects, real debugging, and real lessons learned. I&amp;rsquo;m currently preparing for Azure certification while working on infrastructure deployments, application modernization, and serverless architectures.&lt;/p&gt;
+&lt;h3 id=&#34;projects&#34;&gt;Projects&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;AWS Lambda + RDS MySQL&lt;/strong&gt; — Serverless database queries with Python&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Azure Mattermost Deployment&lt;/strong&gt; — Two-tier architecture with MySQL backend&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Azure Application Modernization&lt;/strong&gt; — Strangler Fig pattern with VMSS, Traffic Manager, and App Gateway&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;AWS OpenSearch &amp;ldquo;MyGoogle&amp;rdquo;&lt;/strong&gt; — Custom search engine&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;connect&#34;&gt;Connect&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/YOUR_LINKEDIN/&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ckanth15&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

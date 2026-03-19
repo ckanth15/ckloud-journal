@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Serverless on Chandra&#39;s Ckloud Journal</title>
+    <link>http://localhost:1313/ckloud-journal/tags/serverless/</link>
+    <description>Recent content in Serverless on Chandra&#39;s Ckloud Journal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ckloud-journal/tags/serverless/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Debugging AWS Lambda: Why Your Zip File Structure Matters</title>
+      <link>http://localhost:1313/ckloud-journal/posts/lambda-rds-mysql-debugging/</link>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ckloud-journal/posts/lambda-rds-mysql-debugging/</guid>
+      <description>How a nested zip file and a Python runtime mismatch caused a frustrating ImportModuleError — and how I fixed it.</description>
+    </item>
+  </channel>
+</rss>
