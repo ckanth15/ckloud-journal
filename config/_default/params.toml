@@ -16,6 +16,8 @@ enableCodeCopy = true
   showTitle = false
 
 [article]
+  showHero = true
+  heroStyle = "big"
   showDate = true
   showAuthor = true
   showReadingTime = true
