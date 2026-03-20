@@ -1,4 +1,11 @@
 [[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 1
+  [main.params]
+    icon = "home"
+
+[[main]]
   name = "Blog"
   pageRef = "posts"
   weight = 10
