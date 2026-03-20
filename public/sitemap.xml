@@ -1,46 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
   <url>
-    <loc>http://localhost:1313/ckloud-journal/tags/aws/</loc>
-    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ckloud-journal/categories/aws-projects/</loc>
-    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ckloud-journal/categories/</loc>
-    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/ckloud-journal/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  <url>
     <loc>http://localhost:1313/ckloud-journal/posts/lambda-rds-mysql-debugging/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ckloud-journal/tags/lambda/</loc>
-    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ckloud-journal/tags/mysql/</loc>
-    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  <url>
     <loc>http://localhost:1313/ckloud-journal/posts/</loc>
     <lastmod>2026-03-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ckloud-journal/tags/python/</loc>
-    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ckloud-journal/tags/rds/</loc>
-    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ckloud-journal/tags/serverless/</loc>
-    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ckloud-journal/tags/</loc>
-    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ckloud-journal/tags/troubleshooting/</loc>
-    <lastmod>2026-03-19T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  <url>
     <loc>http://localhost:1313/ckloud-journal/about/</loc>
   </url>
 </urlset>

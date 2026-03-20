@@ -8,7 +8,7 @@ ShowToc: true
 TocOpen: false
 ---
 
-## The Assignment
+## What I Was Building
 
 Query an RDS MySQL database using AWS Lambda with Python and PyMySQL. Sounds straightforward — create an RDS instance, populate it with data via MySQL Workbench, write a Lambda function to query it, done.
 

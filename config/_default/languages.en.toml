@@ -1,0 +1,8 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+
+[params]
+  displayName = "EN"
+
+title = "Chandra's Ckloud Journal"

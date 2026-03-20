@@ -1,0 +1,30 @@
+colorScheme = "ocean"
+defaultAppearance = "dark"
+autoSwitchAppearance = true
+
+enableSearch = true
+enableCodeCopy = true
+
+[homepage]
+  layout = "card"
+  showRecent = true
+  showRecentItems = 6
+  cardView = true
+  cardViewScreenWidth = false
+
+[article]
+  showDate = true
+  showAuthor = true
+  showReadingTime = true
+  showTableOfContents = true
+  showTaxonomies = true
+  showWordCount = false
+  showPagination = true
+
+[list]
+  showCards = true
+  cardView = true
+  groupByYear = true
+
+[taxonomy]
+  showTermCount = true
