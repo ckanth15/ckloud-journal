@@ -12,6 +12,8 @@ enableCodeCopy = true
   cardView = true
   cardViewScreenWidth = false
   showAuthor = true
+  homepageImage = ""
+  showTitle = false
 
 [article]
   showDate = true
