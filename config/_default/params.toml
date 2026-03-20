@@ -17,7 +17,7 @@ enableCodeCopy = true
 
 [article]
   showHero = true
-  heroStyle = "thumbAndBackground"
+  heroStyle = "basic"
   showDate = true
   showAuthor = true
   showReadingTime = true
