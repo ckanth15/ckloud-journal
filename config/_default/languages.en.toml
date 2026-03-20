@@ -6,3 +6,10 @@ weight = 1
   displayName = "EN"
 
 title = "Chandra's Ckloud Journal"
+
+[author]
+  name = "Chandra Kanth"
+  links = [
+    { linkedin = "https://linkedin.com/in/YOUR-LINKEDIN-ID" },
+    { github = "https://github.com/ckanth15" },
+  ]
