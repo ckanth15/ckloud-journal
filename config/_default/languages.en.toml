@@ -1,14 +1,14 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
+title = "Chandra's Ckloud Journal"
 
 [params]
   displayName = "EN"
 
-title = "Chandra's Ckloud Journal"
-
-[author]
+[params.author]
   name = "Chandra Kanth"
+  headline = "Cloud learner documenting hands-on AWS & Azure projects"
   links = [
     { linkedin = "https://www.linkedin.com/in/chandrakanthsingh/" },
     { github = "https://github.com/ckanth15" },
