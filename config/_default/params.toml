@@ -6,7 +6,7 @@ enableSearch = true
 enableCodeCopy = true
 
 [homepage]
-  layout = "card"
+  layout = "profile"
   showRecent = true
   showRecentItems = 6
   cardView = true
