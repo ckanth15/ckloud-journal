@@ -1,7 +1,7 @@
 ---
 title: "About"
-description: "About Chandra's Ckloud Journal"
+description: "About Chandra Kanth"
 layout: "simple"
 ---
 
-Cloud learner documenting hands-on projects across AWS and Azure — from serverless architectures to application modernization.
+Cloud learner documenting hands-on projects across cloud technologies — from serverless architectures to application modernization and beyond.
