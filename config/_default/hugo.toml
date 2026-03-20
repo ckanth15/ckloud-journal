@@ -15,3 +15,7 @@ theme = "blowfish"
       unsafe = true
   [markup.highlight]
     noClasses = false
+
+[services]
+  [services.googleAnalytics]
+    ID = "G-Q5M9EX9E0E"
