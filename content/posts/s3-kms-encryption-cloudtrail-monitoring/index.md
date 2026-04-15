@@ -32,7 +32,7 @@ The key configuration itself is simple:
 - **Key type:** Symmetric
 - **Key usage:** Encrypt and decrypt
 
-Give it an alias — I used `whiz-kms-key` — and an optional description.
+Give it an alias — I used `my-kms-key` — and an optional description.
 
 ### The Part They Don't Tell You
 
@@ -68,7 +68,7 @@ Navigate to **CloudTrail → Trails → Create trail**.
 This step has the most configuration:
 
 **Trail attributes:**
-- **Trail name:** `whiz-kms-trails`
+- **Trail name:** `my-kms-trails`
 - **Storage location:** Use an existing S3 bucket (select the one from Step 2)
 - **Log file SSE-KMS encryption:** Uncheck this
 - **Log file validation:** Leave enabled (default)
@@ -113,7 +113,7 @@ There's no "Encrypt" button. Here's the actual path:
 5. Select **"Override bucket settings for default encryption"**
 6. Choose **SSE-KMS** (Server-side encryption with AWS KMS keys)
 7. Under "AWS KMS key," select **"Choose from your AWS KMS keys"**
-8. Pick your key (`whiz-kms-key`)
+8. Pick your key (`my-kms-key`)
 9. Click **Save changes**
 
 What happens behind the scenes: S3 re-encrypts the object using your KMS key. The file content doesn't change — only the encryption envelope. It's a metadata operation, not a re-upload. After this, any access to the object will require `kms:Decrypt` permission on the key.
