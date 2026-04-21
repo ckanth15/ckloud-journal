@@ -35,7 +35,9 @@ The final architecture includes an **EC2 instance** running Apache behind an **A
 ```
 [![Architecture Diagram](feature-diagram.png)](feature-diagram.png)
 
+### Architecture
 
+[![Architecture Diagram](feature-diagram.png)](feature-diagram.png)]
 ## Prerequisites
 
 Before running Terraform, I installed the necessary tools on an Ubuntu EC2 instance that served as my workstation.
