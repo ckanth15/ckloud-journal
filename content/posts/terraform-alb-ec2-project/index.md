@@ -2,6 +2,8 @@
 title: "Provisioning AWS Infrastructure with Terraform: EC2, ALB, and Security Groups"
 date: 2025-09-12
 draft: false
+showHero: true
+heroStyle: "basic"
 description: "A hands-on walkthrough of using Terraform to provision a complete AWS web stack — EC2 instance, Application Load Balancer, Target Groups, and Security Groups — all as code."
 tags: ["AWS", "Terraform", "IaC", "EC2", "ALB", "DevOps"]
 categories: ["AWS Projects"]
