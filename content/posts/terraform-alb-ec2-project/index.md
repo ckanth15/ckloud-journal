@@ -31,6 +31,10 @@ The final architecture includes an **EC2 instance** running Apache behind an **A
                         │    web-sg  → allows HTTP from ALB only   │
                         │             + SSH from anywhere           │
                         └──────────────────────────────────────────┘
+
+
+[![Architecture Diagram](feature-diagram.png)](feature-diagram.png)
+
 ```
 
 ## Prerequisites
